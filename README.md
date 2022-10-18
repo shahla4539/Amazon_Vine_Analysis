@@ -48,38 +48,15 @@ The data is filtered to create a DataFrame or table to show particularly 5 star 
 
 # Percentage of unpaid 5 stars Vine reviews 
 
-
-The total number of reviews, the number of 5-star reviews, and the percentage 5-star reviews are calculated for all Vine and non-Vine reviews
-
-
+# Summary:
+Based on the analysis we did, we did not find any bias reviews in the Vine program. If that have been the case then there will be too many paid vine reviews which is not true in this data. The number of paid reviews is very lower than the number of unpaid reviews. 
 
 
 
-Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+Then, provide one additional analysis that you could do with the dataset to support your statement.
 
-The written analysis has the following:
-
-Overview of the analysis of the Vine program:
-
-The purpose of this analysis is well defined (3 pt)
-Results:
-
-There is a bulleted list that addresses the three questions for unpaid and paid program reviews (7 pt)
-Summary:
-
-The summary states whether or not there is bias, and the results support this statement (2 pt)
 An additional analysis is recommended to support the statement (2 pt)
 
- 
- 
- 
-  
- 
-There is a DataFrame or table for the vine_table data using one of three methods above (5 pt)
-The data is filtered to create a DataFrame or table where there are 20 or more total votes (5 pt)
-The data is filtered to create a DataFrame or table where the percentage of helpful_votes is equal to or greater than 50% (5 pt)
-The data is filtered to create a DataFrame or table where there is a Vine review (5 pt)
-The data is filtered to create a DataFrame or table where there isn’t a Vine review (5 pt)
 The total number of reviews, the number of 5-star reviews, and the percentage 5-star reviews are calculated for all Vine and non-Vine reviews (15 pt)
 
 
