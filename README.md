@@ -43,21 +43,16 @@ The data is filtered to create a DataFrame or table to show particularly 5 star 
 
 ![image](https://user-images.githubusercontent.com/105535250/196334932-e6af6372-dc09-414a-b29f-749e54dd35bf.png)
 
-# Percentage of 5 stars Vine reviews  
+# Percentages of 5 stars Vine paid and unpaid reviews  
+Below is the percentage taken of paid and unpaid reviews against helpful_votes
 
-
-# Percentage of unpaid 5 stars Vine reviews 
+![image](https://user-images.githubusercontent.com/105535250/196786023-3c735d6f-f922-48ed-b14b-22f6685372aa.png)
 
 # Summary:
 Based on the analysis we did, we did not find any bias reviews in the Vine program. If that have been the case then there will be too many paid vine reviews which is not true in this data. The number of paid reviews is very lower than the number of unpaid reviews. 
 
 
 
-Then, provide one additional analysis that you could do with the dataset to support your statement.
-
-An additional analysis is recommended to support the statement (2 pt)
-
-The total number of reviews, the number of 5-star reviews, and the percentage 5-star reviews are calculated for all Vine and non-Vine reviews (15 pt)
 
 
 
